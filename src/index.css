@@ -1,0 +1,17 @@
+/* * {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  display: grid;
+  justify-content: center;
+}
+
+.container {
+  width: 60%;
+  margin-bottom: 8px;
+  margin: 0px auto 8px auto;
+} */
+
+@import "tailwindcss";
